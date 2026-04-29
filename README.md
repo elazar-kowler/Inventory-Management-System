@@ -57,3 +57,4 @@ python main.py
 ניתן להוסיף רישיון כאן בהתאם לצורך.
 
 # Inventory-Management-System
+# Inventory-Management-System
